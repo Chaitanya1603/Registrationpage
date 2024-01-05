@@ -20,10 +20,7 @@ Boxicons Integration: This website includes Boxicons for visually appealing icon
 Getting Started
 Clone the Repository:
 
-[bash
-Copy code
-git clone https://github.com/your-username/This website.git
-Include This website in Your Project:](https://github.com/Chaitanya1603/Registrationpage.git)
+https://github.com/Chaitanya1603/Registrationpage.git
 
 Copy the HTML structure from index.html.
 Customize the styles by modifying the style.css file.
