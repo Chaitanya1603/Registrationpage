@@ -8,7 +8,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background: url("images/1.jpg");
+    background: url("image1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -214,7 +214,7 @@ header{
         font-size: 25px;
         color: #fff;
         padding: 10px;
-        background: rgba(255, 255, 255, 0.2);
+        background: rgba(10, 113, 150, 0.2);
         border-radius: 50%;
         cursor: pointer;
         transition: .3s;
