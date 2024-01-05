@@ -11,7 +11,8 @@ User-Friendly Navigation: The navigation menu is designed to be user-friendly, w
 
 Poppins Font Integration: This website utilizes the Poppins font from Google Fonts, adding a touch of elegance to your authentication forms.
 
-![image](https://github.com/Chaitanya1603/Registrationpage/assets/95305500/26397d35-c409-4c53-bf62-b0386ab01d2e)
+![image](https://github.com/Chaitanya1603/Registrationpage/assets/95305500/a3c64178-4ead-42c3-a41a-c4f7b25dd2c7)
+
 
 Background Image Support: Set the tone for your authentication pages by incorporating captivating background images. This website's design ensures that the background images look stunning while maintaining text visibility.
 
